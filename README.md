@@ -36,6 +36,9 @@ CSS – Styling
 
 
 
+![AnimationFramerMotion1](https://github.com/user-attachments/assets/8dd4832c-c34b-4174-ba5b-08cd9a2e7748)
+
+
 
 
 
